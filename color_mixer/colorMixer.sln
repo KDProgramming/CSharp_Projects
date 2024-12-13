@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colorMixer", "Drawdy_chapter4_4\colorMixer.csproj", "{263AAD7E-5023-4048-8537-2280E807AE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263AAD7E-5023-4048-8537-2280E807AE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263AAD7E-5023-4048-8537-2280E807AE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263AAD7E-5023-4048-8537-2280E807AE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263AAD7E-5023-4048-8537-2280E807AE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AB4784-3C1C-471E-8BB4-F867808735D4}
+	EndGlobalSection
+EndGlobal

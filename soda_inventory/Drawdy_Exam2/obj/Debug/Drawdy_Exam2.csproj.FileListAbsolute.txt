@@ -1,0 +1,10 @@
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\bin\Debug\Drawdy_Exam2.exe.config
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\bin\Debug\Drawdy_Exam2.exe
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\bin\Debug\Drawdy_Exam2.pdb
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.csproj.AssemblyReference.cache
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.Form1.resources
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.Properties.Resources.resources
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.csproj.GenerateResource.cache
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.csproj.CoreCompileInputs.cache
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.exe
+C:\Users\kdog3\source\repos\Drawdy_Exam2\Drawdy_Exam2\obj\Debug\Drawdy_Exam2.pdb

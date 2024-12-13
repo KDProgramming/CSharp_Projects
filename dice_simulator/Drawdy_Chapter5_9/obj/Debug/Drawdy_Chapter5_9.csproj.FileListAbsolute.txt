@@ -1,0 +1,10 @@
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\bin\Debug\Drawdy_Chapter5_9.exe.config
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\bin\Debug\Drawdy_Chapter5_9.exe
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\bin\Debug\Drawdy_Chapter5_9.pdb
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.csproj.AssemblyReference.cache
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.Form1.resources
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.Properties.Resources.resources
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.csproj.GenerateResource.cache
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.csproj.CoreCompileInputs.cache
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.exe
+C:\Users\kdog3\source\repos\Drawdy_Chapter5_9\Drawdy_Chapter5_9\obj\Debug\Drawdy_Chapter5_9.pdb

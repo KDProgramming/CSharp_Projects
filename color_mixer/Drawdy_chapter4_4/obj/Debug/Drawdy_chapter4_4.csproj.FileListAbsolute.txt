@@ -1,0 +1,10 @@
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\bin\Debug\Drawdy_chapter4_4.exe.config
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\bin\Debug\Drawdy_chapter4_4.exe
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\bin\Debug\Drawdy_chapter4_4.pdb
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.csproj.AssemblyReference.cache
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.Form1.resources
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.Properties.Resources.resources
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.csproj.GenerateResource.cache
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.csproj.CoreCompileInputs.cache
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.exe
+C:\Users\kdog3\source\repos\Drawdy_chapter4_4\Drawdy_chapter4_4\obj\Debug\Drawdy_chapter4_4.pdb
