@@ -1,8 +1,6 @@
 # Number Guessing Game
-A C# Windows Forms application that challenges users to input the correct combination of coins (quarters, dimes, nickels, and pennies) to reach exactly one dollar. 
-The program provides feedback on whether the entered combination is correct, too low, or too high.
-
-A C# Windows Forms application where users try to guess a randomly generated number between 1 and 100. The program provides feedback on whether the guess is too high, too low, or correct. When the correct number is guessed, a new number is generated automatically.
+A C# Windows Forms application where users try to guess a randomly generated number between 1 and 100. The program provides feedback on whether the guess is too high, too low, or correct. 
+When the correct number is guessed, a new number is generated automatically.
 
 ## Features
 - **Random Number Generation**: Generates a new random number between 1 and 100 when the application starts or when the correct number is guessed.
