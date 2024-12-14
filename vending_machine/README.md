@@ -1,4 +1,4 @@
-# Vanding Machine System
+# Vending Machine System
 A C# Windows Forms application that simulates a drink vending system. Users can select drinks, and the program keeps track of inventory and sales. 
 When a drink is selected, the stock is updated, and the sales total is displayed.
 
